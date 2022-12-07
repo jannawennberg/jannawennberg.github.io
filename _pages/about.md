@@ -9,15 +9,11 @@ redirect_from:
 ---
 
 Welcome! I am a graduate student in the Psychology Department at UC San Diego, working 
-with Dr. John Serences. Broadly, my research interests are in visual perception and memory. Specifically, I am interested in uncovering how the brain flexibly supports 
-the integration of perceptual information and our behavioral 
-goals. To do this, I use a combination of behavior, fMRI, and computational modeling. I 
-am also an open science enthusiast and am a proponent of practices such as preregistration 
-and registered reports not only as scientific reforms but also as training tools for 
-early career researchers. 
+with Dr. John Serences. As we navigate rich perceptual environments, we have the ability to select and hold certain information in mind (or working memory). I am interested in uncovering how populations of neurons flexibly code this information, as well as how different brain regions work together in order to support this capability. To do this, I use a combination of behavior, fMRI, and computational modeling. 
 
-Outside of the lab, I am an avid runner and enjoy reading contemporary fiction, cooking, 
-and watching TV shows (especially The Good Place).
+I am also an open science enthusiast! During my graduate career, I have presented in lab meetings and at conferences about how scientific reforms such as preregistration and registered reports also serve as valuable training tools. 
+
+Outside of the lab, I love to clear my mind with a long run, curl up with a [good book](https://www.goodreads.com/user/show/33411562-janna-wennberg), play guitar, cook, watch sweet TV shows, and spend time with people I love. 
 
 <a href="files/cv.pdf" target="_blank">
 Here</a> is my most recent CV. Feel free to reach out to me via email (jwennber at ucsd dot edu). 
